@@ -22,6 +22,8 @@ Unlike a scalar UDF, an inline table valued UDF returns results as a table of va
 A multi-statement table valued UDF returns the results as a table like an inline table valued UDF, but the difference is that it will perform multiple SELECT statements, instead of just one, and you can create the table and columns returned instead of already existing columns and tables. An additional difference from a scalar UDF is that a Begin and End block is required. When creating a multi-statement table valued UDF, it requires a table variable and includes the syntax “Returns @tablevariable Table.”
 
 ## Summary
-In this assignment, I explained SQL user defined functions (UDFs) and when they are useful. I also explained the different types of UDFs (scalar, inline, and multi-statement functions) and their differences. To end your day, please enjoy a photo of the sunset.
-![Image of sunset below](./images/sunset.jpg)
+In this assignment, I explained SQL user defined functions (UDFs) and when they are useful. I also explained the different types of UDFs (scalar, inline, and multi-statement functions) and their differences. 
+
+To end your day, please enjoy a photo of the sunset.
+<br />![Image of sunset below](./images/sunset.jpg)
 
