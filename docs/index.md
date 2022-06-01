@@ -23,5 +23,5 @@ A multi-statement table valued UDF returns the results as a table like an inline
 
 ## Summary
 In this assignment, I explained SQL user defined functions (UDFs) and when they are useful. I also explained the different types of UDFs (scalar, inline, and multi-statement functions) and their differences. To end your day, please enjoy a photo of the sunset.
-![Image of sunset below](./images/sunset.png)
+![Image of sunset below](./images/sunset.jpg)
 
